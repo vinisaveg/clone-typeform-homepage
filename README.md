@@ -18,6 +18,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ` yarn build`
 
-**You're all set
+**You're all set**
 
-` happy coding :smile:`
+` happy coding ` :smile:

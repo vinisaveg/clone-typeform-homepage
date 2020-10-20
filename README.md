@@ -2,8 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Typeform Homepage Clone
 
-In the project directory, you can run:
-
 ### Clone this repo
 
 ` git clone https://github.com/vinisaveg/clone-typeform-homepage.git`
@@ -20,6 +18,6 @@ In the project directory, you can run:
 
 ` yarn build`
 
-\*\*You're all set
+**You're all set
 
 ` happy coding :smile:`
